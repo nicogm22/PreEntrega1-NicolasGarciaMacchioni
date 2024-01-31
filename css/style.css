@@ -9,3 +9,14 @@ body {
   background-color: rgb(19, 18, 88);
   color: rgb(241, 241, 241);
 }
+
+.bienvenido {
+  text-align: center;
+  color: beige;
+  font-size: 1000%;
+  font-weight: normal;
+}
+
+.botonesBienvenido a {
+  font-size: 200%;
+}
